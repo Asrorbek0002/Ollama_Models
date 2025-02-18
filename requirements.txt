@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+pillow
+tqdm
+numpy
+scipy
+opencv-python
+gradio
+pyyaml
+ollama
